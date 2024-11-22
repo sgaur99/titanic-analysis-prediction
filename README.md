@@ -25,4 +25,4 @@ The dataset used is the Titanic dataset, available [here](https://www.kaggle.com
 ## How to Run the Project 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-analysis.git
+   git clone https://github.com/sgaur99/titanic-analysis-prediction.git
